@@ -49,5 +49,5 @@ captures/
 
 
 /.project
-
+*.gitignore
 *.DS_Store
