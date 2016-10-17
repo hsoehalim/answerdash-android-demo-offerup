@@ -1,0 +1,30 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:app="http://schemas.android.com/apk/res-auto"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:padding="16dp">
+
+    <com.answerdash.android.sdk.AnswerDashButton
+        android:id="@+id/helpButtonOverlapped"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_marginTop="240dp"/>
+
+    <FrameLayout
+        android:id="@+id/container"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+
+    <com.answerdash.android.sdk.AnswerDashButton
+        android:id="@+id/helpButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top|start"
+        android:layout_margin="16dp"
+        app:borderColor="@android:color/transparent"
+        app:fillColor="@color/colorPrimaryDarkStatusBarTest"
+        app:iconColor="@android:color/white"
+        app:size="80dp"/>
+
+</FrameLayout>

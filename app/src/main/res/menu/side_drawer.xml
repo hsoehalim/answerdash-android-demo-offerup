@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/drawer_popularity"
+            android:title="@string/drawer_popularity"/>
+
+        <item
+            android:id="@+id/drawer_funiture"
+            android:title="@string/drawer_furniture"/>
+
+        <item
+            android:id="@+id/drawer_futton"
+            android:title="@string/drawer_futon"/>
+
+    </group>
+
+</menu>

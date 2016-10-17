@@ -1,0 +1,46 @@
+<resources
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <string name="app_name"></string>
+    <string name="hint_app_state">Enter appState</string>
+    <string name="button_set_app_state">Set appState</string>
+    <string name="button_show_webview_app_state">Show webView</string>
+
+    <string name="drawer_open">Drawer open</string>
+    <string name="drawer_close">Drawer closed</string>
+
+    <string name="drawer_basic_fragment">Basic Fragment</string>
+    <string name="drawer_status_bar_activity">Statusbar Activity</string>
+    <string name="drawer_list_view_fragment">ListView Fragment</string>
+
+    <string name="long_text" tools:ignore="Typos">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sem augue, tincidunt feugiat dignissim eget, imperdiet sit amet sapien. Etiam eu ultrices nunc. Nullam in nisi sit amet nulla dictum semper et id quam. Curabitur placerat ante in pharetra vestibulum. Curabitur porta viverra lacus, id suscipit augue convallis sit amet. Proin lacus est, bibendum in nibh vel, porttitor molestie lorem. Vestibulum sodales, nisi sed eleifend interdum, leo felis aliquet dolor, pharetra venenatis urna quam a dui. Donec interdum quam vel sem tempus, eu tincidunt orci lobortis. Pellentesque eu elit vitae sapien laoreet pulvinar id in erat. Fusce sodales ullamcorper felis, ac aliquet felis. Praesent condimentum felis ut ex tincidunt, sed ultrices ante cursus. Donec at dolor at metus sodales venenatis. Curabitur eget ipsum felis. Nunc dictum odio a molestie iaculis. Mauris nec libero orci.
+
+In vitae ipsum venenatis, aliquam ex vel, bibendum elit. Nullam mollis dui vel ornare sagittis. Curabitur euismod vehicula massa, non mollis risus varius a. Quisque ipsum ligula, lacinia sed ante a, aliquet euismod quam. Vestibulum venenatis vulputate magna, sed molestie elit efficitur a. Fusce id mi venenatis, tempor nulla non, imperdiet ex. Curabitur non mattis diam. Etiam tincidunt condimentum tempor. Etiam arcu orci, viverra nec erat sit amet, vestibulum pretium magna. Pellentesque commodo, nisi a ultrices congue, orci massa tempor enim, nec pharetra sapien dolor sit amet quam. Quisque pretium sapien purus, ac ultrices urna efficitur id.
+
+Morbi imperdiet nisi augue, id condimentum sapien semper eu. Nunc hendrerit tristique libero in cursus. Sed aliquam sagittis ex, eget eleifend justo tristique vel. Phasellus bibendum volutpat justo, vitae porta tellus mattis sed. Donec fermentum ex sit amet nisl blandit, eget sollicitudin tortor maximus. Vestibulum hendrerit pellentesque neque, eget pretium justo commodo nec. Integer sit amet turpis luctus lectus porttitor congue ac quis diam. Suspendisse condimentum egestas neque vitae accumsan.
+
+Etiam eget odio blandit, sagittis felis quis, mollis quam. Aenean sodales nulla et enim convallis, at semper massa suscipit. Duis sollicitudin tellus faucibus dolor vehicula, sit amet gravida odio feugiat. Aenean volutpat cursus accumsan. Nulla quis tortor vehicula, fringilla mi in, mattis purus. Integer felis enim, pellentesque id nisi ac, sodales tincidunt augue. Morbi accumsan semper justo nec congue. Integer ut tincidunt dolor. In felis quam, facilisis id arcu sit amet, pulvinar dictum nisi.
+
+Fusce bibendum sapien a leo ornare placerat. Sed sed tellus at tortor pellentesque porta. Sed vitae risus sit amet magna condimentum vehicula non eu ante. Proin faucibus nec ante sit amet mattis. Nunc quis egestas nisi, eget auctor ipsum. Fusce congue elementum nunc, sed convallis mi porta et. Nullam sit amet accumsan neque. Nullam pulvinar, tellus in dapibus euismod, diam dolor ullamcorper risus, pretium ultricies massa nunc et lacus. Donec tempor id nulla eget tempus. Mauris a tortor nec ipsum scelerisque rutrum eget ac ex. Fusce ut egestas leo.
+
+Sed ullamcorper vestibulum lorem, in pulvinar purus eleifend quis. In suscipit porttitor lacus, facilisis pretium nisi eleifend cursus. Cras venenatis, nibh a volutpat porttitor, est arcu vulputate metus, vel semper neque ante nec nisi. Donec malesuada nibh at ligula pharetra rhoncus. Vestibulum id iaculis neque, posuere dapibus lacus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla libero felis, pellentesque ac vestibulum eu, finibus non justo. Curabitur rhoncus semper sagittis. Sed volutpat dictum enim, vitae consequat lacus bibendum sed. Fusce condimentum a sem et tristique. Morbi dictum tempor convallis. Duis hendrerit, lectus quis scelerisque sagittis, elit lectus consequat sem, nec vulputate turpis ligula nec eros. Nunc mollis quam semper augue eleifend finibus.
+
+Vestibulum ac suscipit orci. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Pellentesque elementum leo sed felis tristique bibendum non in lacus. Sed ullamcorper tellus non lectus hendrerit maximus at pharetra odio. Fusce at consectetur purus. Phasellus eget gravida orci. Curabitur vitae malesuada risus, sed eleifend dui. Aenean molestie consequat ultricies. Nunc mollis nisi ac porttitor tincidunt. Vestibulum egestas, ligula ut imperdiet ornare, nisl metus hendrerit nisl, ut sagittis ex lorem vitae urna.
+
+Sed dapibus tortor ac sollicitudin vehicula. Duis mollis iaculis eros, sed hendrerit dui mollis et. Pellentesque gravida vehicula ante, in malesuada nisl faucibus eget. Phasellus purus lectus, volutpat in sapien a, sollicitudin posuere arcu. Phasellus in massa viverra, gravida justo vitae, rhoncus justo. Quisque non risus viverra, finibus leo at, viverra libero. Ut mattis dolor vitae lacinia venenatis. Praesent at lacus magna. Vestibulum eget justo eleifend, porttitor ex id, ullamcorper mauris. Donec ut pharetra quam. Cras in pretium velit. In mattis viverra finibus. In rutrum nunc in elementum molestie. Aliquam eu risus lectus.
+
+Pellentesque faucibus justo odio. Aenean ultricies varius nisi, non fermentum nisi fringilla vitae. Ut eget scelerisque eros, a blandit libero. Donec ultrices, quam in porttitor faucibus, odio elit vehicula massa, sit amet egestas tortor arcu vitae mauris. Integer id dui semper, volutpat felis vitae, pulvinar lectus. Pellentesque porta lacus a dui hendrerit imperdiet. Ut luctus felis et consectetur fermentum. Donec a neque neque. Pellentesque aliquam nisi felis, eget lacinia ante volutpat nec. Integer sit amet metus purus. Integer maximus lectus nec ex elementum tempor. Donec finibus neque purus.
+
+Morbi eget aliquam lorem. Vestibulum tristique consectetur sodales. Suspendisse vel tempor justo, vitae congue enim. Donec tristique molestie varius. Vestibulum gravida non quam sed vehicula. Vestibulum sodales eget diam ut volutpat. Sed a neque id ligula facilisis efficitur. Sed dignissim lectus id neque ornare, nec tincidunt nibh lobortis. Nam eget laoreet nulla. Sed in congue metus.</string>
+
+    <string name="drawer_scroll_view_fragment">ScrollView (Coordinator) Fragment</string>
+    <string name="drawer_popularity">Popular near Seattle</string>
+    <string name="drawer_furniture">Furniture near Seattle</string>
+    <string name="drawer_futon">Futon</string>
+    <string name="drawer_recycler_view_fragment">RecyclerView Fragment</string>
+    <string name="drawer_container_activity">Container Activity</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_help">Help</string>
+
+
+</resources>
